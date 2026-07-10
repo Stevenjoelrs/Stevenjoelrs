@@ -1,4 +1,4 @@
-# <p align="center"><img src="./assets/ac.gif" width="38" alt="ac" /> Hi, I'm Steven Ramos <img src="./assets/ac.gif" width="38" alt="ac" /></p>
+# <p align="center"><img src="./assets/ac.gif" width="38" alt="ac" /> Hi, I'm Steven Joel Ramos Salazar<img src="./assets/ac.gif" width="38" alt="ac" /></p>
 ### <p align="center">Fullstack & Mobile Developer</p>
 
 
@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Stevenjoelrs/Stevenjoelrs/main/metrics.steam.svg" alt="Steam activity" />
 </p>
