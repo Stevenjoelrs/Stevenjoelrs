@@ -15,3 +15,8 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stevenjoelrs/Stevenjoelrs/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Stevenjoelrs/Stevenjoelrs/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stevenjoelrs/Stevenjoelrs/main/metrics.steam.svg" alt="Steam activity" />
+</p>

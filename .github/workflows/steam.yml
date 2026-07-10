@@ -1,0 +1,24 @@
+name: metrics-steam
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  steam:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          committer_message: "update steam activity"
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_ID }}
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 3
